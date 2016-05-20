@@ -1,4 +1,4 @@
-This is a minimalist color scheme for vim
+This is a minimalist color scheme for vim, only coloring what really matters for coding.
 
 ![screenshot](https://i.imgur.com/9shAyp8.png)
 
