@@ -2,7 +2,9 @@ This is a minimalist color scheme for vim, only coloring what really matters for
 
 ![screenshot](https://i.imgur.com/9shAyp8.png)
 
-This theme has been tuned for a `#0e0e0e` terminal color.
+This theme has been tuned for a `#0e0e0e` terminal background.
+
+[![Chat on Miaou](https://dystroy.org/miaou/static/shields/room-en.svg?v=1)](https://dystroy.org/miaou/84?General_Programming)
 
 ## Installation:
 
