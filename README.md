@@ -8,6 +8,10 @@ This theme has been tuned for a `#0e0e0e` terminal background.
 
 ## Installation:
 
+Assuming Plug
+
+	Plug 'https://github.com/Canop/patine'
+
 Assuming Pathogen or a similar plugin manager:
 
 	cd ~/.vim/bundle

@@ -16,6 +16,7 @@ hi Normal term=NONE cterm=NONE ctermfg=254 ctermbg=NONE
 " Faded
 hi ColorColumn term=NONE cterm=NONE ctermfg=NONE ctermbg=236
 hi Comment term=NONE cterm=NONE ctermfg=73 ctermbg=NONE
+hi SpecialComment term=NONE cterm=NONE ctermfg=73 ctermbg=NONE
 hi FoldColumn term=NONE cterm=NONE ctermfg=240 ctermbg=NONE
 hi Folded term=NONE cterm=NONE ctermfg=240 ctermbg=NONE
 hi LineNr term=NONE cterm=NONE ctermfg=8 ctermbg=235
@@ -100,7 +101,6 @@ hi PreCondit term=NONE cterm=NONE ctermfg=NONE ctermbg=NONE
 hi PreProc term=NONE cterm=NONE ctermfg=NONE ctermbg=NONE
 hi Repeat term=NONE cterm=NONE ctermfg=NONE ctermbg=NONE
 hi SpecialChar term=NONE cterm=NONE ctermfg=NONE ctermbg=NONE
-hi SpecialComment term=NONE cterm=NONE ctermfg=NONE ctermbg=NONE
 hi Special term=NONE cterm=NONE ctermfg=NONE ctermbg=NONE
 hi Statement term=NONE cterm=NONE ctermfg=NONE ctermbg=NONE
 hi StorageClass term=NONE cterm=NONE ctermfg=NONE ctermbg=NONE
