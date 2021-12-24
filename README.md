@@ -1,10 +1,12 @@
 This is a minimalist color scheme for vim, only coloring what really matters for coding.
 
+**Note: This colorscheme isn't compatible with termguicolors, I should update it but in the meantime I don't recommand it**
+
 ![screenshot](https://i.imgur.com/9shAyp8.png)
 
 This theme has been tuned for a `#0e0e0e` terminal background.
 
-[![Chat on Miaou](https://dystroy.org/miaou/static/shields/room-en.svg?v=1)](https://dystroy.org/miaou/84?General_Programming)
+[![Chat on Miaou](https://miaou.dystroy.org/static/shields/room-en.svg?v=1)](https://dystroy.org/miaou/84?General_Programming)
 
 ## Installation:
 
